@@ -6,4 +6,5 @@ Our work combines archival processing, OCR pipelines, semantic search, and publi
 
 - **Website:** [borneohistory.com](https://borneohistory.com)
 - **Archive index:** [borneopedia.vercel.app](https://borneopedia.vercel.app)
+- **Repository:** [borneo-history-resources](https://github.com/Borneo-History/borneo-history-resources)
 - **Contact:** admin@borneohistory.com
